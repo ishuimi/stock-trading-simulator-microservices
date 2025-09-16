@@ -1,0 +1,12 @@
+# Node.js
+node_modules
+
+# Java
+.gradle
+.idea
+.vscode
+target
+*.jar
+
+# Docker
+.docker
